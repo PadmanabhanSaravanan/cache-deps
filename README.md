@@ -26,7 +26,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Cache Java and Maven Dependencies
+    - name: ANZ Setup Java
       uses: PadmanabhanSaravanan/cache-deps@v1
             
       with:
