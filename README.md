@@ -1,4 +1,4 @@
-# Cache Java and Maven Dependencies Action
+# ANZ Setup Java
 
 This GitHub Action allows caching both Java and Maven Dependencies based on the pom.xml file.
 
